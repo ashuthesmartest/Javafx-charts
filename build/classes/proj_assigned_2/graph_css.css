@@ -1,0 +1,15 @@
+.chart-pie-label 
+{
+    -fx-fill: #8b4513;
+    -fx-font-size: 1.5em ;
+}
+
+.chart-pie-label-line
+{
+    -fx-fill: black ;
+}
+
+.data0.chart-pie 
+{
+    -fx-background-color: black;
+}
